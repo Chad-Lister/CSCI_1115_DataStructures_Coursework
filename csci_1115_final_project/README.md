@@ -18,8 +18,9 @@ The project contains the following classes:
 	Please Note:  The file paths must match.  Please see Read Me.rtf.
 	If paths match then simply run BankServer.java and ATM.java.
 	
-<img align = "left" height = "200" width = "200" src = "Main Login.png">
-<img align = "right" height = "200" width = "200" src = "Savings Withdrawal.png">
+<img align = "left" height = "300" width = "300" src = "Main Login.png">
+<img align = "right" height = "300" width = "300" src = "Savings Withdrawal.png">
+
 
 ## Code Example
 
